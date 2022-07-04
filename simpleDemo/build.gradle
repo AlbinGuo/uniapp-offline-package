@@ -6,8 +6,8 @@ android {
         applicationId "com.ssit.axcloud"
         minSdkVersion 21
         targetSdkVersion 28
-        versionCode 100
-        versionName "1.0.0"
+        versionCode 104
+        versionName "1.0.1"
         multiDexEnabled true
         compileOptions {
             sourceCompatibility JavaVersion.VERSION_1_8
